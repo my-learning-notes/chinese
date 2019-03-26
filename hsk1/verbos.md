@@ -2,7 +2,7 @@
 
 | Caracter chino | Pinyin      | Audio                               | Traducción                    |
 | -------------- | ----------- | ----------------------------------- | ----------------------------- |
-| 吃             | chī         | @[Escuchar](/audios/chi1_comer.mp3) | Comer                         |
+| 吃             | chī         | ![Escuchar](/audios/chi1_comer.mp3) | Comer                         |
 | 打电话         | dǎ diàn huà | -                                   | Llamar por teléfono           |
 | 读             | dú          | -                                   | Leer (en voz alta)            |
 | 喝             | hē          | -                                   | Beber                         |
