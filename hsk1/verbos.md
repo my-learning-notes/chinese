@@ -3,7 +3,7 @@
 | Caracter chino | Pinyin      | Audio | Traducción                    |
 | -------------- | ----------- | ----- | ----------------------------- |
 | 吃             | chī         | -     | Comer                         |
-| 打电话         | dǎ diàn huà |       | Llamar por teléfono           |
+| 打电话         | dǎ diàn huà | -     | Llamar por teléfono           |
 | 读             | dú          | -     | Leer (en voz alta)            |
 | 喝             | hē          | -     | Beber                         |
 | 回             | huí         | -     | Volver/Responder              |

@@ -12,4 +12,4 @@ Objetivos:
 
 ### Agrupados por tipo de palabra
 
-- Verbos
+- [Verbos](/hsk1/verbos.md)
